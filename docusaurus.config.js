@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Петрова Іванна КП-31',
-  tagline: 'Dinosaurs are cool, but robots are cooler',
+  tagline: 'Dinosaurs are cool, but robots are cooler..........',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
